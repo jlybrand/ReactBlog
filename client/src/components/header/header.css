@@ -1,0 +1,28 @@
+.header {
+  margin-top: 150px;
+  width: 100%;
+}
+
+.header-titles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #444;
+}
+
+.header-lg {
+  background-color: #555;
+  color: #fff; 
+  position: absolute;
+  top: 20%;
+  font-size: 100px;
+  font-weight: 500;
+  padding: 20px 30px;
+}
+
+.header-img {
+  width: 100%;
+  height: 450px;
+  margin-top: 80px;
+  object-fit: cover;
+}
