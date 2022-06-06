@@ -1,5 +1,7 @@
 api/.env
+api/node_modules
 api/images
+client/node_modules
 deleted_files
 project-images
 inDevNotes.md
